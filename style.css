@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(215, 215, 212);
+}
+
+div.Mabel h4 {
+    background-color: rgb(154, 138, 111);
+    padding: 10px;
+    margin: 8px;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+blockquote {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p.Feature {
+    background-color: darkgrey;
+}
+
+div.list ul {
+    
+    padding: 10px;
+    margin: 15px;
+    width: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul li a{
+    text-decoration: none;
+    margin: 5px;
+    padding: 4px;
+    color: black;
+    background-color:rgb(154, 138, 111);
+    
+}
+ul {
+
+    border: 1px solid rgb(154, 138, 111);;
+    padding: 20px;
+    margin: 12px;
+}
+
+ul li {
+    margin: 20px;
+    display: block;
+    
+}
+
+ul li a:hover {
+    background-color: white;
+    padding: 4px;
+    color: black;
+}
+
+
+
